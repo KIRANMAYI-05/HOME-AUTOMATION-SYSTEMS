@@ -60,3 +60,4 @@ Analog value is low → LEDs are turned OFF.
 This creates an automatic lighting system for home automation that saves energy.
 output of picture :
 
+![Image](https://github.com/user-attachments/assets/706766de-d95c-4ae1-8673-0ff306786b3a)
